@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class script : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Exercise 1: Number Generator
     void Start()
     {
         System.Random random = new System.Random();
