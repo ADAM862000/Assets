@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Exercise_2 : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Exercise 2: Funny Sentence Generator
     void Start()
     {
         string[] words = { "Cat", "Dog", "Car", "Pizza", "Hat", "Fish", "Tree", "Monkey", "Ball", "Bird" };
