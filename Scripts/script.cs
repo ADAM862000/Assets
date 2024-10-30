@@ -2,12 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Assignment_8 : MonoBehaviour
+public class script : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-
         System.Random random = new System.Random();
         
         while (true)
@@ -26,6 +25,11 @@ public class Assignment_8 : MonoBehaviour
                 break;
             }
         }
+    }
 
+    // Update is called once per frame
+    void Update()
+    {
+        
     }
 }
